@@ -15,6 +15,6 @@
         public DateTime DataCadastro { get; set; }
         public int CategoriaID { get; set; }
 
-        public Categoria Categoria { get; set; }
+        public Categoria? Categoria { get; set; }
     }
 }

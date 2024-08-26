@@ -12,8 +12,8 @@ using UDEMY.Context;
 namespace UDEMY.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240824185102_PopulaCategorias")]
-    partial class PopulaCategorias
+    [Migration("20240826155249_Primordio")]
+    partial class Primordio
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

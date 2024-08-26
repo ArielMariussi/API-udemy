@@ -5,7 +5,7 @@
 namespace UDEMY.Migrations
 {
     /// <inheritdoc />
-    public partial class PopulaCategorias : Migration
+    public partial class ProdutoPopula : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
